@@ -1,0 +1,9 @@
+Building NataCoin
+
+See doc/readme-qt.rst for instructions on building Natacoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NataCoin.
+
+See doc/build-*.txt for instructions on building Natacoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of NataCoin.
